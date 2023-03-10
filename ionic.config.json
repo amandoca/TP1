@@ -1,0 +1,7 @@
+{
+  "name": "clinica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
